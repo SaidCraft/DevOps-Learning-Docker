@@ -80,7 +80,7 @@ If you build a web app and want to connect it to a database container (e.g., Fla
 
 ## Docker Compose
 
-As the project grow, managing multiple contaienrs manually become complex.
+As the project grow, managing multiple containers manually become complex.
 
 **Docker Compose** is a tool that help you define and run **multi-container applications** using a YAML file.
 
@@ -121,7 +121,7 @@ A **Docker Registry** is a library/repository where you store and retrieve Docke
 
 ### Types:
 - **Public Registry** - e.g., Docker Hub
-- **Private Registry** - e.g., AWS ECT, Azure Container Registry (Secured and private)
+- **Private Registry** - e.g., AWS ECR, Azure Container Registry (Secured and private)
 
 ### Why it matters:
 - Central place for teams to access images
